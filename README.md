@@ -2,3 +2,5 @@ This GitHub repository contains a Power BI project that visualizes sales data, s
 
 
 ![image](https://github.com/akshrasingh/powerbi/assets/110145062/8e843303-6d92-4312-b010-4503017e4737)
+
+
